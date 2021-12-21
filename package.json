@@ -1,0 +1,14 @@
+{
+	"id": "uview-ui",
+	"scripts": {
+		"test": "eslint . --fix"
+	},
+	"dependencies": {
+		"decrypt": "0.0.1",
+		"save-svg-as-png": "^1.4.17"
+	},
+	"devDependencies": {
+		"eslint": "^8.2.0",
+		"eslint-config-airbnb": "^19.0.0"
+	}
+}
